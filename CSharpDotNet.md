@@ -3,5 +3,5 @@ Desing patterns:
 1. Mediator
 
 2. Modern layer application desing
-    *a. CQRS 
-    *b. Event Sourcing
+   *1. CQRS 
+   *2. Event Sourcing

@@ -32,3 +32,4 @@ Note: need some better example
 A: https://www.interviewbit.com/javascript-interview-questions/#javascript-closures
 
 10. What are object prototypes?
+A: https://www.interviewbit.com/javascript-interview-questions/#object-prototypes

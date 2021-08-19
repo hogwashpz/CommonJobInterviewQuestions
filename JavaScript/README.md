@@ -1,6 +1,5 @@
 # CommonJobInterviewQuestions
-Most common job interview questions in JS/TS, C# .NET, SQL
-
+Most common job interview questions in JS/TS
 # Javascript
 
 1. What are the different data types present in javascript? 
